@@ -1,0 +1,8 @@
+{
+  "prefix": "!",
+  "token": "BOT_TOKEN",
+  "kategoriId": "TİCKET_KATEGORİ_ID",
+  "yetkiliRolId": "YETKİLİ_ROL_ID",
+  "logKanalId": "LOG_KANAL_ID",
+  "talepKanalId": "TALEP_KANAL_ID"
+}
