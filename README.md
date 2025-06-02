@@ -1,4 +1,4 @@
-️##Destek Talep Botu - Sunucu Yardım Asistanınız
+️**Destek Talep Botu - Sunucu Yardım Asistanınız**
 Sunucunuzun destek sistemini modern, pratik ve etkili bir hale getiren özel yapım bir Discord botudur. İşte sunduğu bazı özellikler:
 
 
@@ -11,7 +11,7 @@ Otomatik olarak özel bir talep kanalı oluşturulur ve ilgili yetkililer etiket
 
 
 
-️ Yetkili Araçları:
+️ **Yetkili Araçları:**
 
 
 Talebi Devral – Yetkili bu butona tıkladığında sistem devraldığını bildirir ve buton devre dışı kalır.
@@ -19,7 +19,7 @@ Talebi Devral – Yetkili bu butona tıkladığında sistem devraldığını bil
 
 
 
-Üye Yönetimi:
+**Üye Yönetimi:**
 
 
 ➕ !talep ekle @Kullanıcı – Mevcut talep kanalına başka bir kullanıcı eklenebilir.
@@ -27,7 +27,7 @@ Talebi Devral – Yetkili bu butona tıkladığında sistem devraldığını bil
 
 
 
-Gelişmiş Sistem Özellikleri:
+**Gelişmiş Sistem Özellikleri:**
 
 
 ✅ Kullanıcı dostu arayüz
@@ -41,11 +41,7 @@ Gelişmiş Sistem Özellikleri:
 Bot, moderasyon yükünüzü hafifletmek ve kullanıcı deneyimini iyileştirmek için tasarlanmıştır.
 
 
-Sorularınız veya geliştirme talepleriniz varsa burdan veya discord üzerinden iletişime geçebilirsiniz.
-
-
-Altyapı İndirme Linki: İndirme Bağlantısı​
-VirüsTotal Link: VirüsTotal Bağlantısı ​
+Discord üzerinden iletişime geçebilirsiniz. [w1_.lider]
 
 
 
