@@ -31,9 +31,13 @@ Talebi Devral – Yetkili bu butona tıkladığında sistem devraldığını bil
 
 
 ✅ Kullanıcı dostu arayüz
+
 ✅ Otomatik kayıt/log sistemi
+
 ✅ Dinamik buton & form entegrasyonu
+
 ✅ Rol kontrollü yetkili erişimi
+
 ✅ Üyeler ekleme çıkarma
 
 
