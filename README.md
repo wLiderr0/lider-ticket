@@ -1,9 +1,10 @@
-️## Destek Talep Botu - Sunucu Yardım Asistanınız
+️##Destek Talep Botu - Sunucu Yardım Asistanınız
 Sunucunuzun destek sistemini modern, pratik ve etkili bir hale getiren özel yapım bir Discord botudur. İşte sunduğu bazı özellikler:
 
 
 
 **Talep Sistemi Özellikleri:**
+
 !talep gonder veya /talep gonder komutu ile kullanıcılar için bir talep oluşturma mesajı gönderir.
 Kullanıcılar butona tıkladığında karşılarına bir form çıkar, bu formda neden destek istediklerini belirtirler.
 Otomatik olarak özel bir talep kanalı oluşturulur ve ilgili yetkililer etiketlenir.
